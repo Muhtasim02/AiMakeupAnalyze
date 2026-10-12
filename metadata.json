@@ -1,0 +1,8 @@
+{
+  "name": "AI MakeupMatch",
+  "description": "Personalized Makeup Finder - AI-powered makeup recommendations based on your skin tone, undertone, budget, and location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
